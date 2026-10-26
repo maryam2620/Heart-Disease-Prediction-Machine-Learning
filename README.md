@@ -105,7 +105,28 @@ Data Cleaning → Feature Transformation → Model Training → Evaluation
 - **Logistic Regression and Naive Bayes** tied on accuracy, and Logistic Regression gives readable coefficients, which is valuable in medicine.
 - For KNN, accuracy rises with K and peaks around **K = 17**, higher than the initial K = 5.
 
-> 📷 **Add your images here** (save them from your notebooks into an `images/` folder):
+> 📷 **### Confusion Matrices
+
+**KNN**
+
+![KNN Confusion Matrix](knn_confusion_matrix.png)
+
+**Naive Bayes**
+
+![Naive Bayes Confusion Matrix](naive_bayes_confusion_matrix.png)
+
+**SVM (best model)**
+
+![SVM Confusion Matrix](svm_confusion_matrix.png)
+
+**Logistic Regression**
+
+![Logistic Regression Confusion Matrix](logistic_regression_confusion_matrix.png)
+
+### KNN: Accuracy vs K
+
+![KNN Accuracy vs K](knn_accuracy_vs_k.png)
+
 >
 > `![SVM Confusion Matrix](images/svm_confusion_matrix.png)`
 > `![KNN Accuracy vs K](images/knn_accuracy_vs_k.png)`
