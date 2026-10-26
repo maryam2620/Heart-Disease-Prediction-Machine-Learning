@@ -106,24 +106,27 @@ Data Cleaning → Feature Transformation → Model Training → Evaluation
 - For KNN, accuracy rises with K and peaks around **K = 17**, higher than the initial K = 5.
 
 > 📷 ### Confusion Matrices
-### KNN: Accuracy vs K
+### ### KNN: Accuracy vs K
 
-![KNN Accuracy vs K](knn_acccuracy_vs_k.png)
+![KNN Accuracy vs K](images/knn_accuracy_vs_k.png)
+
+### Confusion Matrices
+
 **KNN**
 
-![KNN Confusion Matrix](knn_confusion_matrix.png%20.png)
+![KNN Confusion Matrix](images/knn_confusion_matrix.png%20.png)
 
 **Naive Bayes**
 
-![Naive Bayes Confusion Matrix](naive_bayes_confusion_matrix.png%20.png)
+![Naive Bayes Confusion Matrix](images/naive_bayes_confusion_matrix.png%20.png)
 
 **SVM (best model)**
 
-![SVM Confusion Matrix](svm_confusion_matrix.png%20.png)
+![SVM Confusion Matrix](images/svm_confusion_matrix.png%20.png)
 
 **Logistic Regression**
 
-![Logistic Regression Confusion Matrix](logistic_regression_confusion_matrix.png%20.png)
+![Logistic Regression Confusion Matrix](images/logistic_regression_confusion_matrix.png%20.png)
 
 
 >
